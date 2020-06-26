@@ -138,3 +138,33 @@
 
   color: #FFFFFF;
 }
+.register h1{
+  position: absolute;
+  height: 45px;
+  width: 126px;
+  left: 89px;
+
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 140.62%;
+  color: #000000;
+}
+.register p{
+  position: absolute;
+  height: 29px;
+  width: 422px;
+  left: 89px;
+  top: 74px;
+
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 140.62%;
+
+  /* identical to box height, or 28px */
+
+  color: #000000;
+}
